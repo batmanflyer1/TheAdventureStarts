@@ -1,8 +1,14 @@
 Risk of Rain - 2D Platform Rouge-like.
 Dead Space - 3D Space Horror.
 
+RPG Leaning
 Art Style:
   Somewhere between Risk of Rain and Sword and Sworcery
 FTL Level of encounter: RoR platform combat.
 Start Singleplayer = 1 player ship, can be upgraded to also have crew
       Multiplayer = Multi-crew ship, systems means more complicated tasks as well as operating.
+Selling scrap/ancient tech/ tech/minerals/commodities.
+Out of ship travel, shops etc. -> Spacewalk, systems.
+MOTIVATION: >START - Keeping life support systems working./Buy new one. need to trade for.
+            >Mid - transition actual quests.
+            >END - ?
