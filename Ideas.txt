@@ -12,3 +12,9 @@ Out of ship travel, shops etc. -> Spacewalk, systems.
 MOTIVATION: >START - Keeping life support systems working./Buy new one. need to trade for.
             >Mid - transition actual quests.
             >END - ?
+Systems | Fuel   | 
+        | Oxygen | 
+        | Weapon | 
+        | Shields |
+        | Cyro-Stasis | wait doesn't need fuel etc. |cryro-stasis/motivate players to do something. | cryo-sickness | {come up with dead air filler }
+        | FTL | Gets Quickly, uses fuel.| fuel takes space |
