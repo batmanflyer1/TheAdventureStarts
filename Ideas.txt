@@ -13,7 +13,11 @@ MOTIVATION: >START - Keeping life support systems working./Buy new one. need to 
             >Mid - transition actual quests.
             >END - ?
 Systems  
-        | Oxygen | 
+        | Life-Support | 
+          | Air Filtration |
+            | Oxygen Generators |
+            | CO2 Scrubbers |
+          | Water Recyclers |
         | Weapon | 
         | Shields |
         | Travel |
