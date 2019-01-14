@@ -17,6 +17,9 @@ Systems
           | Air Filtration |
             | Oxygen Generators |
             | CO2 Scrubbers |
+          | Waste Processing |
+          | Temperature Control |
+          | Ventilation |
           | Water Recyclers |
         | Weapon | 
         | Shields |
