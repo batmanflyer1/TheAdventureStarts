@@ -3,3 +3,6 @@ Dead Space - 3D Space Horror.
 
 Art Style:
   Somewhere between Risk of Rain and Sword and Sworcery
+FTL Level of encounter: RoR platform combat.
+Start Singleplayer = 1 player ship, can be upgraded to also have crew
+      Multiplayer = Multi-crew ship, systems means more complicated tasks as well as operating.
