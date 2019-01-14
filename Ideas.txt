@@ -16,7 +16,8 @@ Systems | Fuel   |
         | Oxygen | 
         | Weapon | 
         | Shields |
-        | Cyro-Stasis | wait doesn't need fuel etc. |cryro-stasis/motivate players to do something. | cryo-sickness | {come up with dead air filler } set time, like wait 20 min, "it happens", timer accelerate.
-        | FTL | Gets Quickly, uses fuel.| fuel takes space | timer stays
+        | Travel |
+          | Cyro-Stasis | wait doesn't need fuel etc. |cryro-stasis/motivate players to do something. | cryo-sickness | {come up with dead             air filler } set time, like wait 20 min, "it happens", timer accelerate.
+          | FTL | Gets Quickly, uses fuel.| fuel takes space | timer stays
         
-   maintain internal systems, maintance traveltime. if break depends on system
+            maintain internal systems, maintance traveltime. if break depends on system
