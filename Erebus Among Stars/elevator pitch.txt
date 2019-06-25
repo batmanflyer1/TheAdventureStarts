@@ -1,0 +1,7 @@
+Erebus
+Quest Based Isomorphic Space Game
+What if Sword and Sworcery and Endless Sea, but space.
+
+The player plays the only survivor of a desaster that befell the ISe-Kharon (previous ship). The previous ship is played on as a tutorial on how to manage the flight systems, maintain supplies, and move around in the ship while orders are queued. 
+
+To end the tutorial, the player finds themself floating on a piece of debris in space with no memories. 
