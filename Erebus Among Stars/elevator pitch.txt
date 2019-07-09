@@ -1,7 +1,10 @@
 Erebus Amongst Stars (?) (Name Pending)
 Quest Based Isomorphic Space Game
 What if Sword and Sworcery and Endless Sea, but space.
+Sin leads to Absolute Destruction (Going with a 7 Deadly Sins kind of vibe.)
 
 The player plays the only survivor of a desaster that befell the ISe-Kharon (previous ship). The previous ship is played on as a tutorial on how to manage the flight systems, maintain supplies, and move around in the ship while orders are queued. 
 
 To end the tutorial, the player finds themself floating on a piece of debris in space with no memories. 
+
+Every mission that the player does has either a good or bad outcome. If they accrue enough bad karma without getting rid of it, they set in place a chain of events that destroys the galaxy. The missions are set up so that the character gains little to nothing if they choose a good outcome, but if they choose a bad outcome, they personally gain while tipping the karmic scales towards destruction. What kind of morality do we live with in RPGs?
