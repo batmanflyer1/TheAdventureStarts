@@ -7,4 +7,10 @@ The player plays the only survivor of a desaster that befell the ISe-Kharon (pre
 
 To end the tutorial, the player finds themself floating on a piece of debris in space with no memories. 
 
-Every mission that the player does has either a good or bad outcome. If they accrue enough bad karma without getting rid of it, they set in place a chain of events that destroys the galaxy. The missions are set up so that the character gains little to nothing if they choose a good outcome, but if they choose a bad outcome, they personally gain while tipping the karmic scales towards destruction. What kind of morality do we live with in RPGs?
+Every mission that the player does has either a good or bad outcome. If they accrue enough bad karma without getting rid of it, they set in place a chain of events that ends in everyone's destruction (part of the main storyline). The missions are set up so that the character gains little to nothing if they choose a good outcome, but if they choose a bad outcome, they personally gain while tipping the karmic scales towards destruction. Depending on the mission, all missions have a bad ending, and those usually reward you the most, however it also pushes you closer to a bad ending. Sometimes, good missions have small rewards, sometimes they don't, but it also offsets some of the bad karma. The scale of the even also defines the karmic value it has, so the scale of the outcome matches the scale of the influence. That being said, all of this is hidden from the player, so they will only see things for how they do or don't benefit them. This would all be done, for the most part, outside of dialogue boxes and decisions menus. Keep it organic.
+
+The main problem with games with Karma rn are twofold. 
+1. They make that choice obvious, and they give the player a chance to think about what they want to do. 
+2. They make good or bad choices into something transactionable, "if you do this, you'll unlock this thing, and if you do this, you get this thing instead."
+
+So, we need to find a ay to make the decision making process organic rather than explicit.
